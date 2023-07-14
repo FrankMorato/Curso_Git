@@ -3,3 +3,5 @@ Hola mundo Frank Morato!!
 Repositores remotos:
 Githug, Gillab, Bitbutcket, Azaure
 
+curso campus Git Fechas segunda clase 13-07-2023 
+
