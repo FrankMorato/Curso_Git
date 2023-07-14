@@ -1,1 +1,5 @@
 Hola mundo Frank Morato!!
+
+Repositores remotos:
+Githug, Gillab, Bitbutcket, Azaure
+
